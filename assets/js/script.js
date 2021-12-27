@@ -1,5 +1,5 @@
 // print some info
-console.log('source for this website is on https://github.com/Miko!#1337xd/Miko!#1337.me');
+console.log('miko swaggin fr fr fr');
 
 // array prototype extension
 Array.prototype.random = function() {
