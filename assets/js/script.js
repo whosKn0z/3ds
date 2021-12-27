@@ -35,7 +35,7 @@ let messages = [
     '<a target="_blank" href="https://github.com/q6s">github.com/q6s</a> - My github profile!',
     '<a target="_blank" href="https://steamcommunity.com/id/MikoWTF/">steamcommunity.com/id/MikoWTF/</a> - My steam profile!',
     '<a target="_blank" href="https://www.instagram.com/6z.bl/">instagram.com/6z.bl/</a> - My instagram page!',
-    '<a target="_blank" href="https://discord.com/users/305407367372341249">Discord.com/MikoWTF</a> - My discord profile!',
+    '<a target="_blank" href="https://discord.com/users/691583229395992597">Discord.com/MikoWTF</a> - My discord profile!',
     '<a target="_blank" href="https://soundcloud.com/mi-k0">soundcloud.com/mi-k0</a> - My soundcloud profile!',
     '<a target="_blank" href="https://www.youtube.com/channel/UCkgAbkFBdap6WSZT0QMgJZQ">youtube.com/channel/miko</a> - My youtube channel!',
     'you can also send me an email via Miko@seized.email or miko@DDOSED.ORG.'
