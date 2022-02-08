@@ -29,7 +29,7 @@ let songsPlayed = [];
 // define messages to display
 let messages = [
     'heyo, im Miko!',
-    'i\'m 14.',
+    'i\'m 15.',
     'My birthday is 16th of December.',
     'I live in the UAE',
     '<a target="_blank" href="https://github.com/q6s">github.com/q6s</a> - My github profile!',
@@ -146,7 +146,7 @@ $(document).on('click', function(e) {
 // type new text
 function newText() {
     // insert a new element into the dom
-    $('#contentinner').append(`<div class="instruction"> <span class="user">Miko!#1337@127.0.0.1</span>: <span class="path">~</span>$ <span id="command${currentlyOn}" class="command"></span> <span class="blinking-cursor" id="blinkingcursor">_</span> </div>`);
+    $('#contentinner').append(`<div class="instruction"> <span class="user">mikooo@127.0.0.1</span>: <span class="path">~</span>$ <span id="command${currentlyOn}" class="command"></span> <span class="blinking-cursor" id="blinkingcursor">_</span> </div>`);
     // initialize a new instance of typeit
     new TypeIt(`#command${currentlyOn}`, {
         strings: messages[currentlyOn],
