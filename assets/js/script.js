@@ -36,9 +36,10 @@ let messages = [
     '<a target="_blank" href="https://steamcommunity.com/id/MikoWTF/">steamcommunity.com/id/MikoWTF/</a> - My steam profile!',
     '<a target="_blank" href="https://www.instagram.com/6z.bl/">instagram.com/6z.bl/</a> - My instagram page!',
     '<a target="_blank" href="https://discord.com/users/691583229395992597">Discord.com/MikoWTF</a> - My discord profile!',
+    '<a target="_blank" href="https://discord.gg/mko">Discord.gg/mko</a> - My discord server!',
     '<a target="_blank" href="https://soundcloud.com/mi-k0">soundcloud.com/mi-k0</a> - My soundcloud profile!',
     '<a target="_blank" href="https://www.youtube.com/channel/UCkgAbkFBdap6WSZT0QMgJZQ">youtube.com/channel/miko</a> - My youtube channel!',
-    'you can also send me an email via Miko@seized.email or miko@DDOSED.ORG.'
+    'you can also send me an email via Miko@seized.email,Miko@ahegao.bar or Miko@DDOSED.ORG.'
 ];
 
 // define songs
@@ -95,7 +96,7 @@ $(document).ready(function() {
 // load the main page and execute required functions
 function startIt() {
     // set the document title
-    document.title = 'm1ko.xyz | home';
+    document.title = 'ahegao.bar | home';
 
     // get a random song
     let song = songs.random();
@@ -187,3 +188,4 @@ function visualizeAudio() {
         }
     }
 }
+
