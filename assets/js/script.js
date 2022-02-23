@@ -96,7 +96,7 @@ $(document).ready(function() {
 // load the main page and execute required functions
 function startIt() {
     // set the document title
-    document.title = 'ahegao.bar | home';
+    document.title = 'm1ko.xyz | home';
 
     // get a random song
     let song = songs.random();
